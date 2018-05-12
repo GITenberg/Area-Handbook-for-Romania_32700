@@ -1,0 +1,43 @@
+_repo: Area-Handbook-for-Romania_32700
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Keefe, Eugene K.
+    birthdate: 1922
+    gutenberg_agent_id: '35675'
+    url: http://www.gutenberg.org/2009/agents/35675
+  - agent_name: Moore, James M.
+    gutenberg_agent_id: '35678'
+    url: http://www.gutenberg.org/2009/agents/35678
+  - agent_name: Walpole, Neda A.
+    gutenberg_agent_id: '35948'
+    url: http://www.gutenberg.org/2009/agents/35948
+  - agent_name: Bernier, Donald W.
+    gutenberg_agent_id: '36015'
+    url: http://www.gutenberg.org/2009/agents/36015
+  - agent_name: Giloane, William
+    gutenberg_agent_id: '35677'
+    url: http://www.gutenberg.org/2009/agents/35677
+  - agent_name: Brenneman, Lyle E.
+    alias: Brenneman, Lyle Eugene
+    birthdate: 1934
+    gutenberg_agent_id: '36016'
+    url: http://www.gutenberg.org/2009/agents/36016
+description: ''
+gutenberg_issued: '2010-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32700'
+  lccn: '72600095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romania'
+- !lcc 'DR'
+title: Area Handbook for Romania
+url: http://www.gutenberg.org/ebooks/32700
