@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '36016'
     url: http://www.gutenberg.org/2009/agents/36016
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32700#Area-Handbook-for-Romania
 gutenberg_issued: '2010-06-08'
 gutenberg_type: Text
 identifiers:
